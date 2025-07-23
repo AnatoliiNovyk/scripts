@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+free_proxy_list.txt
+
 # C extensions
 *.so
 
